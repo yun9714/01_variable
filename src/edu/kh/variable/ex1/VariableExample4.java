@@ -12,6 +12,7 @@ public class VariableExample4 {
 		 * - 자료형을 변환시키고 싶은 값 또는 변수 앞에 (자료형)을 작성
 		 * ex) double temp = 3.14;
 		 * 		int num = (int)temp;
+		 * 
 		 * */
 		double temp = 3.14;
 		int num = (int)temp;
